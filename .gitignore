@@ -1,0 +1,16 @@
+*~
+.DS_Store
+*.csv
+*.pyc
+*.swp
+*.egg-info
+*.sqlite
+.sass-cache
+.tmp
+build
+dist
+env
+node_modules
+source
+.env
+.vagrant

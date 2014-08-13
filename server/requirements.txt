@@ -1,0 +1,5 @@
+south
+django
+djangorestframework
+django-cors-headers
+simplejson
